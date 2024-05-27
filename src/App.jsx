@@ -1,6 +1,6 @@
 import Body from "./Components/Body"
 import NevBar from "./Components/NevBar"
-
+import './App.css';
 
 function App() {
 
